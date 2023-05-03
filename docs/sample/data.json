@@ -28,9 +28,7 @@
                     "lon": "-88.140947",
                     "type": "Statue",
                     "name": "The Old Wall",
-                    "images": [
-                        "https://github.com/jngibbs/NxtGenQuickAppFinal/raw/main/docs/sample/images/image1quickappresize.jpg"
-                    ],
+                    "images": ["https://github.com/jngibbs/NxtGenQuickAppFinal/raw/main/docs/sample/images/image1quickappresize.jpg"],
                     "description": "As a tiny mouse scurrying across the campus of Spring Hill College, I couldn't help but notice a beautiful and tranquil space nestled among the trees. It was the Marian Grotto, a serene devotional site dedicated to the Virgin Mary.",
                     
                     "urls": [
