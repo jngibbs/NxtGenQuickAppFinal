@@ -57,20 +57,13 @@
                 },
                 {
                     "id": "uniqueID-4",
-                    "lat": "50.9",
-                    "lon": "4.8",
+                    "lat": "30.694422",
+                    "lon": "-88.140947",
                     "type": "statue",
-                    "name": "My Statue",
-                    "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
-                    ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
-                    "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
-                    ]
+                    "name": "Tunnel of Intentions",
+                    "images": ["https://github.com/jngibbs/NxtGenQuickAppFinal/raw/main/docs/sample/images/image4quickappredo.jpg"],
+                    "description": "I could feel the reverence and respect that the students and visitors had for this sacred space as they came to offer prayers, which were channeled up towards the figure of Mary. It was clear that the Grotto held a special place in the hearts of those who visited it.",
+                    "urls": []
                 },
                 {
                     "id": "uniqueID-5",
