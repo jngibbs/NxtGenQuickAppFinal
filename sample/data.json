@@ -67,20 +67,14 @@
                 },
                 {
                     "id": "uniqueID-5",
-                    "lat": "50.9",
-                    "lon": "4.8",
+                    "lat": "30.694422",
+                    "lon": "-88.140947",
                     "type": "statue",
-                    "name": "My Statue",
-                    "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
-                    ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
-                    "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
-                    ]
+                    "name": "Leaving the Grotto",
+                    "images": ["https://github.com/jngibbs/NxtGenQuickAppFinal/raw/main/docs/sample/images/image5quickappredo.jpg"],
+                    "description": "As I scurried back into the bushes, I couldn't help but feel a sense of peace and contentment that lingered long after I left the Grotto. Even as a tiny mouse, I knew that the Marian Grotto was a significant and beautiful part of Spring Hill College - once a wall that bordered the campus, now a monument of the school’s Jesuit community.",
+                    
+                    "urls": []
                 }
             ]
         }
