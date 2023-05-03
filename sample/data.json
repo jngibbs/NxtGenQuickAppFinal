@@ -12,8 +12,8 @@
         "en": {
             "app": {
                 "theme": {
-                    "brand": "#B11623",
-                    "complementary": "#FAFAFA"
+                    "brand": "#A02EFF",
+                    "complementary": "#ffffff"
                 },
                 "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/country/city",
                 "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
@@ -37,10 +37,10 @@
                 },
                 {
                     "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
+                    "lat": "30.694422",
+                    "lon": "-88.140947",
                     "type": "statue",
-                    "name": "My Statue",
+                    "name": "Marian Grotto",
                     "images": [
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
