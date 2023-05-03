@@ -41,16 +41,9 @@
                     "lon": "-88.140947",
                     "type": "statue",
                     "name": "Marian Grotto",
-                    "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
-                    ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
-                    "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
-                    ]
+                    "images": ["https://github.com/jngibbs/NxtGenQuickAppFinal/raw/main/docs/sample/images/image2quickappredo.jpg"],
+                    "description": "As I approached the Grotto, I marveled at the verdant ivy that cascaded down the stone facade, creating a peaceful atmosphere that soothed my tiny mousey soul. The sound of the breeze, the chirping of the birds, and the rustling of the ivy’s tendrils created a symphony of nature that surrounded the Grotto. It was placed in the perfect spot – teachers and students alike passed it daily, as Mary watched over them.",
+                    "urls": []
                 },
                 {
                     "id": "uniqueID-3",
